@@ -6,9 +6,13 @@ body {
 	color: transparent;
 	margin: 0 auto 6px;
 	padding: 0;
-	height: 100%;
-	overflow: visible;
-	}
+  	display: flex;
+  	flex-direction: column;
+  	min-height: 100vh;
+}
+.page-content {
+    flex: 1;
+}
 
 #bg {
   	position: fixed;
