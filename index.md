@@ -3,11 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Coming soon! 
 ---
 
 # Comming Soon! 
 
-<img src="https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true" style="max-width:50%"></img>
+<img src="https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true" style="max-width:100%;"></img>
 
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true)
-{: style="" width=40vw;"}.
+<h3>
