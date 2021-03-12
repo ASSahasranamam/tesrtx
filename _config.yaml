@@ -23,7 +23,7 @@ github_username: assahasranamam
 
 # Build settings
 markdown: kramdown
-theme:
+theme: minima
 plugins:
   - jekyll-feed
 
