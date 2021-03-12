@@ -8,4 +8,4 @@ layout: default
 # Comming Soon! 
 
 
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true)
+![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true) {: styles ="max-width:60vw;"}
