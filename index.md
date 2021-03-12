@@ -7,7 +7,7 @@ layout: default
 
 # Comming Soon! 
 
+<img src="https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true" style="max-width:50%"></img>
 
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true) {: style="" width=40vw;"}.
 ![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true)
 {: style="" width=40vw;"}.
